@@ -105,6 +105,25 @@ I'm pursuing a B.Tech in **Artificial Intelligence and Data Science at KPR Insti
 > **Authenticity note:** GitHub's native Achievements, account highlights, and organization icons are controlled by GitHub and depend on qualifying activity, program participation, or actual organization membership. This README does not claim any unearned badges or affiliations.
 
 
+## Colorful Profile Badges
+
+<div align="center">
+
+<a href="https://github.com/Hariharan2604-git?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio projects" /></a>
+<a href="https://github.com/Hariharan2604-git/AI-Crime-Investigation"><img src="https://img.shields.io/badge/Focus-Computer_Vision-6C5CE7?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer vision focus" /></a>
+<a href="https://github.com/Hariharan2604-git/NextPath"><img src="https://img.shields.io/badge/Building-AI_for_Education-00897B?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="AI for education project" /></a>
+<a href="https://www.linkedin.com/in/hari-haran-574a48358/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+</div>
+
+These are portfolio and interest badges—not GitHub-awarded achievements. I’ll add verified awards or certifications here as I earn them.
+
+### GitHub-native achievements & community
+
+GitHub displays native achievements when an account meets its criteria. I’m working toward these through genuine contributions, issue discussions, pull requests, and collaboration. Organization icons appear only for organizations I actually join; I don't currently have any organization memberships connected to this account.
+
+---
+
 ## Current Priorities
 
 - [ ] Make Nigaaani AI easier to install, test, and reproduce.
