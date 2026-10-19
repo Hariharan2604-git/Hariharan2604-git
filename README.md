@@ -14,14 +14,15 @@ I'm an undergraduate student at **KPR Institute of Engineering and Technology** 
 
 ## Featured Projects
 
-### 🔎 AI Crime Investigation
-An AI-assisted prototype concept for organizing and reviewing evidence from multiple camera clips.
+### 🔎 Nigaaani AI — AI-assisted video evidence review
+A local-first React + FastAPI prototype for indexing authorized MP4 footage and retrieving candidate frames for human review.
 
-- Explore cross-camera timeline correlation and relevant timestamps.
-- Present confidence indicators and an evidence register to support human review.
-- Designed around the principle that AI outputs are investigative leads—not proof of guilt or a substitute for professional judgment.
+- YOLO-based object detection/tracking and per-clip evidence-frame indexing.
+- CLIP text-to-frame similarity search, approximate colour cues, and SQLite event/audit records.
+- SHA-256 checks for saved evidence frames and simple rule-based alerts.
+- Local dashboard with clear limitations: scores are similarity signals, not calibrated probabilities; the prototype does not perform verified cross-camera identity matching.
 
-**Repository:** [AI-Crime-Investigation](https://github.com/Hariharan2604-git/AI-Crime-Investigation)
+**Code and documentation:** [AI-Crime-Investigation](https://github.com/Hariharan2604-git/AI-Crime-Investigation)
 
 ### 🧭 NextPath
 An AI career-guidance project concept aimed at helping students explore academic and career pathways.
