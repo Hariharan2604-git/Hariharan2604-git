@@ -1,1 +1,61 @@
-[![MasterHead](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966)]([https://rishavchanda.io](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3Y5dWxCN05TVEUtbDhRaDRvV1J4REtZNzFjd3xBQ3Jtc0tsQ3ZObmM0STdGUk5yQVZTMUZobVZpREVBbURRaHpxdnlBYi1ZOEdqaENrNnY1U1luRC1kdFhXSXFRZDREQk11dkJWN2xseGVsbHdscEdYRWNTSXhOVFc0ODZLRmNtcy1ONW55UE1sTTdkckdSTkkyaw&q=https%3A%2F%2Frishavchanda.io%2F&v=G-EGDH50hGE))<h1 align="center">Hi 👋, I'm Hariharan</h1><h3 align="center">A passionate frontend developer from India</h3><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><p align="left"> <img src="https://komarev.com/ghpvc/?username=hariharan2604-git&label=Profile%20views&color=0e75b6&style=flat" alt="hariharan2604-git" /> </p><p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>- 🔭 I’m currently working on **cloud computing**- 💬 Ask me about **languages**- 📫 How to reach me **hh28032604@gmail.com**- ⚡ Fun fact **I am funny**<h3 align="left">Connect with me:</h3><p align="left"><a href="https://linkedin.com/in/hari haran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari haran" height="30" width="40" /></a><a href="https://instagram.com/prince_hari26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_hari26" height="30" width="40" /></a><a href="https://discord.gg/hari003370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hari003370" height="30" width="40" /></a></p><h3 align="left">Languages and Tools:</h3><p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariharan2604-git&show_icons=true&locale=en&layout=compact" alt="hariharan2604-git" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hariharan2604-git&show_icons=true&locale=en" alt="hariharan2604-git" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan2604-git&" alt="hariharan2604-git" /></p># Hariharan.
+# Hi, I'm Hariharan 👋
+
+### Artificial Intelligence & Data Science Student | Machine Learning | Python | Data Analytics
+
+I'm an undergraduate student at **KPR Institute of Engineering and Technology** exploring how AI and data-driven systems can solve practical problems. I enjoy building prototypes, learning by experimentation, and turning ideas into clear, usable applications.
+
+- 🎓 **Focus:** Artificial Intelligence, Machine Learning, and Data Science
+- 🧠 **Currently learning:** model development, data analysis, and building end-to-end AI applications
+- 🛠️ **Tools I work with:** Python, SQL, Pandas, NumPy, scikit-learn, Git, and GitHub
+- 📌 **Portfolio goal:** document projects clearly, including their purpose, implementation, limitations, and next steps
+- 📫 **Contact:** [hh28032604@gmail.com](mailto:hh28032604@gmail.com)
+
+---
+
+## Featured Projects
+
+### 🔎 AI Crime Investigation
+An AI-assisted prototype concept for organizing and reviewing evidence from multiple camera clips.
+
+- Explore cross-camera timeline correlation and relevant timestamps.
+- Present confidence indicators and an evidence register to support human review.
+- Designed around the principle that AI outputs are investigative leads—not proof of guilt or a substitute for professional judgment.
+
+**Repository:** [AI-Crime-Investigation](https://github.com/Hariharan2604-git/AI-Crime-Investigation)
+
+### 🧭 NextPath
+An AI career-guidance project concept aimed at helping students explore academic and career pathways.
+
+- Focuses on making course exploration and decision support more accessible.
+- Intended to help students compare options and ask informed questions.
+- Project details and implementation status should be checked in the repository.
+
+**Repository:** [NextPath](https://github.com/Hariharan2604-git/NextPath)
+
+---
+
+## Skills & Technologies
+
+**Programming:** Python, C, SQL  
+**Data & Machine Learning:** Pandas, NumPy, scikit-learn, data analysis, model evaluation  
+**Tools & Workflow:** Git, GitHub, Jupyter Notebook, VS Code  
+**Areas of interest:** Machine Learning, Generative AI, data visualization, responsible AI
+
+> Skills listed here reflect my learning and project interests; the depth of implementation varies by project.
+
+---
+
+## What I'm Working Toward
+
+- Building reproducible, well-documented AI/ML projects.
+- Strengthening fundamentals in data structures, programming, and model evaluation.
+- Improving project quality through clear READMEs, meaningful examples, testing, and responsible-use notes.
+
+---
+
+## Let's Connect
+
+- **Email:** [hh28032604@gmail.com](mailto:hh28032604@gmail.com)
+- **GitHub:** [@Hariharan2604-git](https://github.com/Hariharan2604-git)
+
+Thanks for visiting my profile! Feel free to explore the repositories and follow along as I learn and build.
