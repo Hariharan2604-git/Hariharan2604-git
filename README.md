@@ -1,62 +1,99 @@
+<div align="center">
+
 # Hi, I'm Hariharan 👋
 
-### Artificial Intelligence & Data Science Student | Machine Learning | Python | Data Analytics
+### Artificial Intelligence & Data Science Student
 
-I'm an undergraduate student at **KPR Institute of Engineering and Technology** exploring how AI and data-driven systems can solve practical problems. I enjoy building prototypes, learning by experimentation, and turning ideas into clear, usable applications.
+I build practical projects at the intersection of **AI, machine learning, computer vision, and data science**.
 
-- 🎓 **Focus:** Artificial Intelligence, Machine Learning, and Data Science
-- 🧠 **Currently learning:** model development, data analysis, and building end-to-end AI applications
-- 🛠️ **Tools I work with:** Python, SQL, Pandas, NumPy, scikit-learn, Git, and GitHub
-- 📌 **Portfolio goal:** document projects clearly, including their purpose, implementation, limitations, and next steps
-- 📫 **Contact:** [hh28032604@gmail.com](mailto:hh28032604@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Hariharan2604--git-181717?style=flat&logo=github)](https://github.com/Hariharan2604-git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hari-haran-574a48358/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hh28032604@gmail.com)
+
+</div>
 
 ---
+
+## About
+
+I'm pursuing a B.Tech in **Artificial Intelligence and Data Science at KPR Institute of Engineering and Technology**. I enjoy turning ideas into working prototypes, exploring how AI systems behave, and documenting what a project does—including its limitations and next steps.
+
+- 🔭 **Building:** Nigaaani AI, a local-first video evidence review prototype.
+- 🧠 **Interested in:** Machine Learning, Computer Vision, Generative AI, and Data Analytics.
+- 🛠️ **Working with:** Python, SQL, React, FastAPI, OpenCV, NumPy, Pandas, and scikit-learn.
+- 🌱 **Developing:** stronger software engineering, API design, reproducible experiments, and model evaluation skills.
+- 📍 **Based in:** Coimbatore, Tamil Nadu, India.
 
 ## Featured Projects
 
-### 🔎 Nigaaani AI — AI-assisted video evidence review
-A local-first React + FastAPI prototype for indexing authorized MP4 footage and retrieving candidate frames for human review.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 Nigaaani AI</h3>
+      <p><b>AI-assisted video evidence review</b></p>
+      <p>A local-first React and FastAPI prototype for indexing authorized video clips and retrieving candidate frames for human review.</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+        <img alt="Computer Vision" src="https://img.shields.io/badge/Computer_Vision-546E7A?style=flat" />
+      </p>
+      <p><a href="https://github.com/Hariharan2604-git/AI-Crime-Investigation">View source code and documentation →</a></p>
+      <sub>Prototype note: similarity scores are not probabilities of identity or guilt; results require human review.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 NextPath</h3>
+      <p><b>AI career guidance for students</b></p>
+      <p>An early-stage project exploring how AI could help students compare academic streams, courses, and career pathways.</p>
+      <p>
+        <img alt="AI" src="https://img.shields.io/badge/AI-6C5CE7?style=flat" />
+        <img alt="Education" src="https://img.shields.io/badge/Education-00897B?style=flat" />
+      </p>
+      <p><a href="https://github.com/Hariharan2604-git/NextPath">View project and roadmap →</a></p>
+      <sub>Project status: concept and roadmap documented; further implementation is in progress.</sub>
+    </td>
+  </tr>
+</table>
 
-- YOLO-based object detection/tracking and per-clip evidence-frame indexing.
-- CLIP text-to-frame similarity search, approximate colour cues, and SQLite event/audit records.
-- SHA-256 checks for saved evidence frames and simple rule-based alerts.
-- Local dashboard with clear limitations: scores are similarity signals, not calibrated probabilities; the prototype does not perform verified cross-camera identity matching.
+## Technical Toolkit
 
-**Code and documentation:** [AI-Crime-Investigation](https://github.com/Hariharan2604-git/AI-Crime-Investigation)
+**Programming**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🧭 NextPath
-An AI career-guidance project concept aimed at helping students explore academic and career pathways.
+**AI, Data & Computer Vision**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-- Focuses on making course exploration and decision support more accessible.
-- Intended to help students compare options and ask informed questions.
-- Project details and implementation status should be checked in the repository.
+**Development Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Repository:** [NextPath](https://github.com/Hariharan2604-git/NextPath)
+## Current Priorities
+
+- [ ] Make Nigaaani AI easier to install, test, and reproduce.
+- [ ] Add a documented demo using footage that is permitted to share.
+- [ ] Build out project-specific tests and evaluation methods.
+- [ ] Publish additional academic and machine-learning projects with their actual source files and setup instructions.
+
+## Engineering Principles
+
+- **Reproducibility:** clear setup steps, dependencies, and test instructions.
+- **Evidence over hype:** report metrics only when the evaluation method can be explained and reproduced.
+- **Responsible AI:** make uncertainty visible and keep people in the loop for consequential decisions.
+- **Continuous learning:** improve projects through feedback, testing, and iteration.
 
 ---
 
-## Skills & Technologies
+<div align="center">
 
-**Programming:** Python, C, SQL  
-**Data & Machine Learning:** Pandas, NumPy, scikit-learn, data analysis, model evaluation  
-**Tools & Workflow:** Git, GitHub, Jupyter Notebook, VS Code  
-**Areas of interest:** Machine Learning, Generative AI, data visualization, responsible AI
+Thanks for visiting my profile. Feel free to explore the repositories and connect!
 
-> Skills listed here reflect my learning and project interests; the depth of implementation varies by project.
+**[GitHub repositories](https://github.com/Hariharan2604-git?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/hari-haran-574a48358/) · [Email](mailto:hh28032604@gmail.com)**
 
----
-
-## What I'm Working Toward
-
-- Building reproducible, well-documented AI/ML projects.
-- Strengthening fundamentals in data structures, programming, and model evaluation.
-- Improving project quality through clear READMEs, meaningful examples, testing, and responsible-use notes.
-
----
-
-## Let's Connect
-
-- **Email:** [hh28032604@gmail.com](mailto:hh28032604@gmail.com)
-- **GitHub:** [@Hariharan2604-git](https://github.com/Hariharan2604-git)
-
-Thanks for visiting my profile! Feel free to explore the repositories and follow along as I learn and build.
+</div>
