@@ -74,6 +74,37 @@ I'm pursuing a B.Tech in **Artificial Intelligence and Data Science at KPR Insti
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
+## Profile Highlights
+
+<div align="center">
+
+<a href="https://github.com/Hariharan2604-git?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repositories-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+<a href="https://github.com/Hariharan2604-git/AI-Crime-Investigation"><img src="https://img.shields.io/badge/Featured_Project-Nigaaani_AI-7B61FF?style=for-the-badge&logo=opencv&logoColor=white" alt="Featured project Nigaaani AI" /></a>
+<a href="https://www.linkedin.com/in/hari-haran-574a48358/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+
+</div>
+
+### GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/Hariharan2604-git"><img src="https://github-readme-stats.vercel.app/api?username=Hariharan2604-git&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub profile statistics" /></a>
+<a href="https://github.com/Hariharan2604-git"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan2604-git&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages based on public repository code" /></a>
+
+</div>
+
+<sub>These cards are generated from public GitHub data by a third-party service and may occasionally be unavailable. They are not awards or verified skill assessments.</sub>
+
+### Learning & Recognition
+
+- 🎓 B.Tech student in Artificial Intelligence and Data Science at KPRIET.
+- 🔬 Building and documenting practical AI and machine-learning projects.
+- 🤝 Open to meaningful open-source collaboration and peer learning.
+- 📚 Developing skills in reproducible ML experiments, software engineering, and responsible AI.
+
+> **Authenticity note:** GitHub's native Achievements, account highlights, and organization icons are controlled by GitHub and depend on qualifying activity, program participation, or actual organization membership. This README does not claim any unearned badges or affiliations.
+
+
 ## Current Priorities
 
 - [ ] Make Nigaaani AI easier to install, test, and reproduce.
